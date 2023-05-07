@@ -11,4 +11,4 @@ Restart Server and the House is clean.
 
 have fun
 
-Suppoert: https://discord.gg/t2NWABD6QJ
+Support: https://discord.gg/t2NWABD6QJ
