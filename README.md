@@ -1,9 +1,9 @@
 # house-cleaner
 Bra-house-cleaner
 
-Put the house-cleaner folder in your resources folder.
+Put the spooni-house-cleaner folder in your resources folder.
 add this line in your server.cfg
-ensure house-cleaner
+ensure spooni-house-cleaner
 
 Restart Server and the House is clean.
 
